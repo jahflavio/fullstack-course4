@@ -8,7 +8,7 @@
 h1 {
   margin-bottom: 15px;
   text-align: center;
-
+  
 }
 
 p {
@@ -16,8 +16,7 @@ p {
   background-color: #A52A2A;
   width: 90%;
   height: 150px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: auto;
   font-family: Helvetica;
   color: white;
 }
